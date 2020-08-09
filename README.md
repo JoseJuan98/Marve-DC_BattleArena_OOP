@@ -5,7 +5,7 @@ This project is a videogame about superheroes and villains of Marvel and DC Comi
 
 Everything is shown by a graphical interface which allows to repeat games and load different initial configurations and allows the user to execute some operations meanwhile the simulation is executing, such as save the state, stop and pause the execution.
 
-This project have been developed in collaboration
+This project have been developed in collaboration with my collegue Francisco Nuñez Sierra for a subject about Object Oriented Programming in 2017.
 
 #### Technologies
 To implement this project it has been used mainly Java and some libraries like:
