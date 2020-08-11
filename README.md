@@ -1,7 +1,7 @@
 # MarvelAndDC_BattleArena_OOP
 
 ## English
-This project is a videogame about superheroes and villains of Marvel and DC Comics which are able to move themselves without any user interaction thanks to Backtracking Algorithms through a changing laberint generated randomly. Superheroes and villains has different superpowers and depending on them they can interact differently with each other, if they cross each other in the labering they will fight. There are also weapons randomly generated in the laberint which superheroes and villains can equipate to increase their skills points and be stronger .At the end superheroes or villains can win the game depending on the score, which is based on the fight that they had won.
+This project is a videogame about superheroes versus villains of Marvel and DC Comics which are able to move themselves without any user interaction thanks to Backtracking Algorithms through a changing laberint generated randomly. Superheroes and villains has different superpowers and depending on them they can interact differently with each other, if they cross each other in the labering they will fight. There are also weapons randomly generated in the laberint which superheroes and villains can equipate to increase their skills points and be stronger .At the end superheroes or villains can win the game depending on the score, which is based on the fight that they had won.
 
 Everything is shown by a graphical interface which allows to repeat games and load different initial configurations and allows the user to execute some operations meanwhile the simulation is executing, such as save the state, stop and pause the execution.
 
