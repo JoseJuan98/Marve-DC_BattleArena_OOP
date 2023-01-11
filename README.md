@@ -22,4 +22,4 @@ Todo esto esta expresado mediante una interfaz gráfica que permite repeticiones
 
 ## Authors
 - Francisco Nuñez Sierra
-- Jose Juan Peña Gomez
+- josejuan98
